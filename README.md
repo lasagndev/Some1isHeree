@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Some1isHeree
+- 👋 Hi, I’m lasagn!
 
-- 🌱 I’m learning Python (not rn cuz busy💀)
+- 🌱 I’m learning React with TypeScript, C# with Avalonia and Kotlin with Android studio!
 
 - 📫 How to reach me? Mail me!
